@@ -1,0 +1,34 @@
+body {
+    margin:50;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#increment {
+    margin:20px;
+    color:white;
+    background:green;
+    border:none;
+    width:50px;
+    height:50px;
+    cursor: pointer;
+}
+
+#value {
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+#decrement {
+    margin:20px;
+    color:white;
+    background:green;
+    border:none;
+    width:50px;
+    height:50px;
+    cursor: pointer;
+}
